@@ -1,0 +1,3 @@
+Q1: Why might we consider using Git?
+
+Answer: We consider using Git because it allows for version control.  If a student tries to implement a new feature that may break the entire program, Git allows them to reroll changes.  Git is also useful for collaboration.  It allows multiple programmers to implement different features at once with branches.  It also allows programmers to have detailed descriptions on their changes/commits for readability.
